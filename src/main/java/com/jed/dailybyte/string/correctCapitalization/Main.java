@@ -1,4 +1,4 @@
-package com.jed.dailybyte.correctCapitalization;
+package com.jed.dailybyte.string.correctCapitalization;
 
 public class Main {
     public static void main(String[] args) {

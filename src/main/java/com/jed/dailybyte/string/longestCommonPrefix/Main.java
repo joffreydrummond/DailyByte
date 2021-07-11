@@ -1,4 +1,4 @@
-package com.jed.dailybyte.longestCommonPrefix;
+package com.jed.dailybyte.string.longestCommonPrefix;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.jed.dailybyte.palindome;
+package com.jed.dailybyte.string.palindome;
 
 public class Main {
     public static void main(String[] args) {

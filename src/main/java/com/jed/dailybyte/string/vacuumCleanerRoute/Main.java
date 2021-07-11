@@ -1,4 +1,4 @@
-package com.jed.dailybyte.vacuumCleanerRoute;
+package com.jed.dailybyte.string.vacuumCleanerRoute;
 
 public class Main {
     public static void main(String[] args) {

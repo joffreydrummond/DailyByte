@@ -1,4 +1,4 @@
-package com.jed.dailybyte.addBinary;
+package com.jed.dailybyte.string.addBinary;
 
 public class Main {
     public static void main(String[] args) {
